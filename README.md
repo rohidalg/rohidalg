@@ -3,7 +3,7 @@
     <table align="center">
         <tbody>
             <tr>
-                <td><a href="https://github.com/rohidalg"><img src="https://github-readme-stats.vercel.app/api?username=rohidalg&show_icons=true&theme=dark&cache_seconds=1800" />
+                <td><a href="https://github.com/rohidalg"><img src="https://github-readme-stats.vercel.app/api?username=rohidalg&show_icons=true&theme=dark&cache_seconds=1" />
 </a></td>
                 <td><a href="https://github.com/rohidalg"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohidalg&layout=compact" /></a></td>
             </tr>
