@@ -11,7 +11,7 @@
                 <td align="center" colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohidalg&bg_color=0D1117&theme=dark&cache_seconds=1" alt="Stats badge"/>
 </td>
             </tr>
-        </tbody>
+        </tbody> 
     </table>
 </div>
 <!--
